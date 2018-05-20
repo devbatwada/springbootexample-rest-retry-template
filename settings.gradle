@@ -1,0 +1,3 @@
+rootProject.name = 'springbootexample-rest-retry-template'
+include 'product'
+

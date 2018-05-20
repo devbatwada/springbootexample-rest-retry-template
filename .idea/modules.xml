@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/product.iml" filepath="$PROJECT_DIR$/.idea/modules/product/product.iml" group="product" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/product_main.iml" filepath="$PROJECT_DIR$/.idea/modules/product/product_main.iml" group="product" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/product_test.iml" filepath="$PROJECT_DIR$/.idea/modules/product/product_test.iml" group="product" />
+      <module fileurl="file://$PROJECT_DIR$/springbootexample-rest-retry-template.iml" filepath="$PROJECT_DIR$/springbootexample-rest-retry-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootexample-rest-retry-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootexample-rest-retry-template_main.iml" group="springbootexample-rest-retry-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootexample-rest-retry-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootexample-rest-retry-template_test.iml" group="springbootexample-rest-retry-template" />
+    </modules>
+  </component>
+</project>

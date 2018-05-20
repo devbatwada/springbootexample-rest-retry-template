@@ -1,0 +1,16 @@
+group 'com.dev'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web:2.0.2.RELEASE'
+    compile 'org.springframework.retry:spring-retry:1.2.2.RELEASE'
+}
